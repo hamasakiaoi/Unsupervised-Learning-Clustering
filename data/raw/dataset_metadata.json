@@ -1,0 +1,27 @@
+{
+  "dataset_name": "Online Retail",
+  "source": "UCI Machine Learning Repository",
+  "uci_id": 352,
+  "source_url": "https://archive.ics.uci.edu/dataset/352/online+retail",
+  "download_url": "https://archive.ics.uci.edu/static/public/352/online+retail.zip",
+  "creators": [
+    "Daqing Chen",
+    "Sai Liang Sain",
+    "Kun Guo"
+  ],
+  "publication_year": 2012,
+  "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "description": "Transnational transactional data containing all purchases for a UK-based online retail firm between 01/12/2010 and 09/12/2011.",
+  "domain": "E-Commerce / Retail Customer Segmentation",
+  "raw_row_count": 541909,
+  "attributes": [
+    "InvoiceNo",
+    "StockCode",
+    "Description",
+    "Quantity",
+    "InvoiceDate",
+    "UnitPrice",
+    "CustomerID",
+    "Country"
+  ]
+}

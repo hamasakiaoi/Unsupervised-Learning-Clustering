@@ -1,0 +1,15 @@
+{
+  "dataset": "UCI Online Retail",
+  "total_customers": 4334,
+  "selected_k": 4,
+  "primary_algorithm": "K-Means++",
+  "comparative_algorithm": "Agglomerative Hierarchical (Ward)",
+  "cross_algorithm_ari": 0.437973616749802,
+  "cross_algorithm_nmi": 0.5517062671665652,
+  "stability_mean_ari": 0.9427719456139144,
+  "pca_variance_explained": {
+    "PC1": 0.5618437305355772,
+    "PC2": 0.23439351016137489,
+    "Total_2D": 0.7962372406969521
+  }
+}

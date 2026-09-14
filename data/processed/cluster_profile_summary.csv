@@ -1,0 +1,5 @@
+Cluster_ID,Persona,Customer_Count,Population_Share_Pct,Total_Revenue_GBP,Revenue_Share_Pct,Median_Recency_Days,Median_Frequency_Orders,Median_Monetary_GBP,Median_AOV_GBP,Median_Basket_Size,Median_Unique_SKUs,Median_Tenure_Days
+0,Low-Value / Churned Buyers,836,19.29,138956.26,1.59,165.5,1.0,152.13,128.67,65.0,9.0,0.0
+1,Champions / Power Retailers,1060,24.46,6644441.65,75.99,14.0,7.0,2979.97,428.52,259.88,111.0,293.0
+2,At-Risk Bulk Buyers,951,21.94,679939.76,7.78,106.0,1.0,391.98,375.0,238.0,23.0,0.0
+3,Active Regular Customers,1487,34.31,1280575.97,14.65,43.0,3.0,752.44,241.55,135.67,41.0,177.0
